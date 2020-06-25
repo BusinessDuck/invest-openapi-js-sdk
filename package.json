@@ -36,7 +36,6 @@
     "prettier": "^2.0.4",
     "rollup": "^1.21.3",
     "rollup-plugin-dts": "^1.1.11",
-    "rollup-plugin-typescript": "^1.0.1",
     "rollup-plugin-typescript2": "^0.24.3",
     "tslib": "^1.10.0",
     "typedoc": "^0.15.0",
